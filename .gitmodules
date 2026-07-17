@@ -1,0 +1,9 @@
+[submodule "mini-siem"]
+	path = mini-siem
+	url = https://github.com/asongwehuber/mini-siem.git
+[submodule "siem-agent"]
+	path = siem-agent
+	url = https://github.com/asongwehuber/siem-agent.git
+[submodule "log-generator"]
+	path = log-generator
+	url = https://github.com/asongwehuber/log-generator.git
