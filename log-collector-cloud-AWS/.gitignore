@@ -1,0 +1,6 @@
+venv/
+.env
+__pycache__/
+*.pyc
+state.json
+test_state.json
