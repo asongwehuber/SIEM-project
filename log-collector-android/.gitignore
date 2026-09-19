@@ -1,0 +1,19 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+!.idea/.name
+.gradle/
+
+# Local configuration and secrets
+local.properties
+local
+
+# Build output
+/build/
+/app/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+
+# macOS
+.DS_Store
